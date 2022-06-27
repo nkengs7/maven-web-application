@@ -95,16 +95,16 @@
 	
 	<distributionManagement>
 	
-	    <repository>
+	  <!--  <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://35.174.19.3:8081/repository/amazon-release/</url>
-	    </repository>
+	    </repository> -->
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.174.19.3:8081/repository/amazon-snapshot/</url>
+	      <url>http://18.234.239.136:8081/repository/paypal-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
